@@ -8,3 +8,15 @@ h1, ul {
     padding: 5px 30px;
     border-bottom: 2px solid white;
 }
+
+ul {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+li {
+    background-color: white;
+    width: 250px;
+}
+.space {
+    margin-bottom: 15px;
+}
