@@ -1,6 +1,7 @@
 * {
     font-family: Arial, Verdana, Helvetica, sans-serif;
     box-sizing: border-box;
+    color: white;
 }
 
 h1, h2 {
@@ -19,9 +20,8 @@ img {
     display: block;
 }
 
-
 a {
     background-color: white;
     padding: 2px 8px;
+    color: rgb(85, 26, 139)
 }
-
