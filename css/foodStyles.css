@@ -1,0 +1,15 @@
+* {
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+h1, h2 {
+    background-color: #262626;
+    color: white;
+    padding: 5px 30px;
+    border-bottom: 2px solid white;
+}
+
+body {
+    background-color: #101010;
+}
