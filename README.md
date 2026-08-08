@@ -13,3 +13,9 @@ Pumpkin Pie pic by Prchi Palwe
 https://unsplash.com/@prachipalwe
 
 https://doggotswag.github.io/odin-recipes-two/
+
+
+honestly returning back to do this project again I began rushing to get the css over with and was skipping the important step of correctly documenting what 
+I was doing with git. I ended up redoing it because of this but I feel pretty happy
+I fixed it. The page looks better than the first time I created this project so this is a good win. I learned a little bit more abt margin collapsing because
+of this project so its a good win over all
